@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEditClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditContractForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditDutyScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContractsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DutyScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
